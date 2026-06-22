@@ -1,0 +1,354 @@
+# Curated theology and religious studies Wikipedia articles
+# One article title per line. Lines starting with # are ignored.
+# Used by pipeline/download_wiki.py
+
+# ── Core Christian Doctrine ────────────────────────────────────────────────────
+Trinity
+Incarnation (Christianity)
+Atonement in Christianity
+Grace in Christianity
+Salvation in Christianity
+Justification (theology)
+Sanctification
+Theosis (Eastern Christianity)
+Original sin
+Total depravity
+Predestination
+Divine providence
+Omnipotence
+Omniscience
+Omnipresence
+Impassibility
+Divine simplicity
+Aseity
+Eternal life (Christianity)
+Resurrection of Jesus
+Second coming of Christ
+Last Judgment
+Purgatory
+Heaven in Christianity
+Hell in Christianity
+Eschatology
+Millennialism
+Rapture
+Resurrection of the dead
+
+# ── Christology ────────────────────────────────────────────────────────────────
+Christology
+Logos (Christianity)
+Hypostatic union
+Kenosis
+Two natures of Christ
+Council of Nicaea
+Nicene Creed
+Arianism
+Nestorianism
+Monophysitism
+Chalcedonian Christianity
+Docetism
+Adoptionism
+Ebionites
+Council of Chalcedon
+Council of Ephesus
+Council of Constantinople
+Homoousios
+Christ (title)
+Messianism
+Son of God
+
+# ── Pneumatology ───────────────────────────────────────────────────────────────
+Holy Spirit in Christianity
+Pneumatology (Christianity)
+Pentecostalism
+Glossolalia
+Baptism of the Holy Spirit
+Charismatic Christianity
+Fruit of the Holy Spirit
+Gifts of the Holy Spirit
+
+# ── Soteriology ────────────────────────────────────────────────────────────────
+Soteriology
+Redemption (theology)
+Expiation
+Propitiation
+Substitutionary atonement
+Ransom theory of atonement
+Moral influence theory of atonement
+Christus Victor
+Penal substitution
+Universal reconciliation
+Arminianism
+Calvinism
+Synergism
+
+# ── Ecclesiology & Sacraments ─────────────────────────────────────────────────
+Ecclesiology
+Church (building)
+Body of Christ (theology)
+Sacrament
+Baptism
+Eucharist
+Confirmation (Christian rite)
+Confession (religion)
+Anointing of the Sick
+Holy orders
+Marriage in Christianity
+Transubstantiation
+Consubstantiation
+Real presence of Christ in the Eucharist
+Apostolic succession
+Priesthood of all believers
+Ordained ministry
+Bishop
+Pope
+Papacy
+
+# ── Scripture & Hermeneutics ──────────────────────────────────────────────────
+Biblical inspiration
+Biblical inerrancy
+Biblical infallibility
+Hermeneutics
+Exegesis
+Typology (theology)
+Allegory in the Bible
+Literal and figurative language in the Bible
+Biblical canon
+Old Testament
+New Testament
+Septuagint
+Vulgate
+Dead Sea Scrolls
+Higher criticism
+Historical-critical method
+Form criticism
+Redaction criticism
+Source criticism
+Q source
+Synoptic Gospels
+Gospel of John
+Pauline epistles
+Book of Revelation
+Apocalyptic literature
+
+# ── Church History ─────────────────────────────────────────────────────────────
+Early Christianity
+Church Fathers
+Apostolic Fathers
+Ante-Nicene Fathers
+Post-Nicene Fathers
+Patristics
+Ecumenical council
+Great Schism (1054)
+Protestant Reformation
+Counter-Reformation
+Council of Trent
+First Vatican Council
+Second Vatican Council
+Monasticism
+Desert Fathers
+Scholasticism
+Medieval philosophy
+Byzantine theology
+
+# ── Theology Proper ───────────────────────────────────────────────────────────
+Natural theology
+Revealed theology
+Systematic theology
+Biblical theology
+Historical theology
+Practical theology
+Apologetics
+Theodicy
+Problem of evil
+Free will
+Compatibilism
+Libertarianism (metaphysics)
+
+# ── Mysticism ─────────────────────────────────────────────────────────────────
+Christian mysticism
+Contemplative prayer
+Apophatic theology
+Cataphatic theology
+The Cloud of Unknowing
+Dark night of the soul
+Union with God
+Hesychasm
+Prayer of quiet
+Lectio Divina
+Mysticism
+
+# ── Key Theologians ───────────────────────────────────────────────────────────
+Augustine of Hippo
+Thomas Aquinas
+Anselm of Canterbury
+John Calvin
+Martin Luther
+Origen
+Tertullian
+Irenaeus
+Athanasius of Alexandria
+Basil of Caesarea
+Gregory of Nazianzus
+Gregory of Nyssa
+John Chrysostom
+Cyril of Alexandria
+Jerome
+Ambrose
+John of Damascus
+Meister Eckhart
+Julian of Norwich
+Hildegard of Bingen
+Thomas à Kempis
+Bonaventure
+John Duns Scotus
+William of Ockham
+Erasmus
+Philip Melanchthon
+John Wesley
+Jonathan Edwards
+Friedrich Schleiermacher
+Søren Kierkegaard
+Karl Barth
+Rudolf Bultmann
+Reinhold Niebuhr
+Paul Tillich
+Dietrich Bonhoeffer
+Hans Urs von Balthasar
+Karl Rahner
+Hans Küng
+Jürgen Moltmann
+Walter Brueggemann
+N. T. Wright
+
+# ── World Religions (comparative context) ────────────────────────────────────
+Islam
+Quran
+Muhammad
+Five Pillars of Islam
+Sharia
+Sunni Islam
+Shia Islam
+Sufism
+Kalam
+Judaism
+Torah
+Talmud
+Halakha
+Kabbalah
+Hasidism
+Jewish philosophy
+Hinduism
+Vedas
+Upanishads
+Brahman
+Atman (Hinduism)
+Bhagavad Gita
+Yoga
+Advaita Vedanta
+Buddhism
+Four Noble Truths
+Noble Eightfold Path
+Nirvana
+Bodhisattva
+Zen
+Tibetan Buddhism
+Theravada
+Mahayana
+Taoism
+Confucianism
+
+# ── Philosophy of Religion ────────────────────────────────────────────────────
+Philosophy of religion
+Ontological argument
+Cosmological argument
+Teleological argument
+Moral argument
+Pascal's wager
+Religious experience
+Mystical experience
+Faith and rationality
+Reformed epistemology
+Negative theology
+Pantheism
+Panentheism
+Deism
+Theism
+Atheism
+Agnosticism
+Secular humanism
+
+# ── Old Testament Topics ──────────────────────────────────────────────────────
+Covenant (biblical)
+Mosaic law
+Torah
+Prophecy in the Hebrew Bible
+Psalms
+Book of Job
+Book of Isaiah
+Book of Ezekiel
+Book of Daniel
+Hebrew Bible
+Wisdom literature
+Creation in Genesis
+Garden of Eden
+Flood myth
+Exodus
+Monotheism
+Henotheism
+El (deity)
+YHWH
+
+# ── New Testament Topics ──────────────────────────────────────────────────────
+Kingdom of God
+Sermon on the Mount
+Beatitudes
+Lord's Prayer
+Parables of Jesus
+Miracles of Jesus
+Passion of Jesus
+Resurrection appearances of Jesus
+Pauline theology
+Justification by faith
+Law and Gospel
+Grace and works
+Epistle to the Romans
+Epistle to the Galatians
+Gospel of Mark
+Gospel of Matthew
+Gospel of Luke
+Acts of the Apostles
+Epistle to the Hebrews
+General epistles
+
+# ── Ethics & Moral Theology ───────────────────────────────────────────────────
+Christian ethics
+Natural law
+Virtue ethics
+Deontological ethics
+Divine command theory
+Social gospel
+Liberation theology
+Just war theory
+Nonviolence
+Pacifism in Christianity
+Conscience
+Moral theology
+Bioethics
+Sexual ethics in Christianity
+
+# ── Liturgy & Worship ─────────────────────────────────────────────────────────
+Christian worship
+Liturgy
+Divine Office
+Mass (liturgy)
+Homily
+Christian prayer
+Fasting
+Pilgrimage
+Iconography
+Icon
+Iconoclasm
+Church music
+Hymn
+Plainchant
+Gregorian chant

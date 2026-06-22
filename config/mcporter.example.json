@@ -1,0 +1,17 @@
+{
+  "servers": {
+    "theology-vectors": {
+      "command": "python",
+      "args": ["/absolute/path/to/theology-vector-search/mcp/theology_vectors_mcp.py"],
+      "env": {
+        "THEOLOGY_OUT_DIR": "/absolute/path/to/theology-vector-search/out",
+        "QDRANT_HOST": "localhost",
+        "QDRANT_PORT": "6333",
+        "OLLAMA_URL": "http://localhost:11434",
+        "PYTHONUTF8": "1",
+        "PYTHONIOENCODING": "utf-8"
+      },
+      "lifecycle": "keep-alive"
+    }
+  }
+}

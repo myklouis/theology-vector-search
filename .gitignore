@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+
+# large data files — host on Hugging Face, not git
+*.jsonl
+*.npy
+*.f32
+*.faiss
+data/cathen_pages/
+data/wiki_pages/
+out/
