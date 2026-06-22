@@ -17,7 +17,7 @@ Once installed, your AI assistant can answer theology questions grounded in actu
 |---|---|---|
 | Catholic Encyclopedia (1907–1913) | ~3,700 | Public domain; `download_cathen.py` fetches from newadvent.org |
 | Wikipedia theology articles | ~300 | Curated list in `config/wiki_titles.txt`; `download_wiki.py` fetches via API |
-| Project Gutenberg books | 77,000+ | Optional; find theology books at gutenberg.org |
+| Project Gutenberg books | 77,000+ | Public domain; `download_gutenberg.py` fetches via Gutendex API by subject |
 
 The pre-built index (10M+ passages) is too large for git. See **Pre-built index** below for options.
 
@@ -65,6 +65,13 @@ python pipeline/download_cathen.py --out-dir data/cathen_pages
 
 # Wikipedia theology articles (~300 articles, ~5 minutes)
 python pipeline/download_wiki.py --out-dir data/wiki_pages
+
+# Project Gutenberg — theology/religion/bible/philosophy subjects
+# --limit 1000 for a quick sample; omit for the full corpus (~77k books, several hours)
+python pipeline/download_gutenberg.py --out-dir data/gutenberg_pages --limit 1000
+
+# Or target specific Gutenberg book IDs (put one ID per line in a text file):
+python pipeline/download_gutenberg.py --out-dir data/gutenberg_pages --ids config/gutenberg_ids.txt
 ```
 
 ### 3. Build the index
@@ -180,9 +187,10 @@ biblical studies, church history, or religious philosophy question.
 ```
 theology-vector-search/
 ├── pipeline/
-│   ├── build_index.py       # chunk → embed → Qdrant (main pipeline)
-│   ├── download_cathen.py   # fetch Catholic Encyclopedia from newadvent.org
-│   └── download_wiki.py     # fetch curated Wikipedia theology articles
+│   ├── build_index.py         # chunk → embed → Qdrant (main pipeline)
+│   ├── download_cathen.py     # fetch Catholic Encyclopedia from newadvent.org
+│   ├── download_wiki.py       # fetch curated Wikipedia theology articles
+│   └── download_gutenberg.py  # fetch theology books from Project Gutenberg
 ├── mcp/
 │   └── theology_vectors_mcp.py  # FastMCP server (THEOLOGY_OUT_DIR env var)
 ├── config/
